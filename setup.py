@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="bmi_calculator",
-    version="0.0.1",
+    version="0.0.2",
     author="Eromosele Iriogbe",
     author_email="eiriogbe@gmail.com",
     description="Calculates BMI",
